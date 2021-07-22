@@ -21,11 +21,7 @@ Hi ha molts tipus de contingut diferents a WordPress. Els que més utilitzem só
 * **Esdeveniment**: en cas de voler mostrar una agenda, aquest tipus de contingut representarà cada entrada.
 * **Portfoli**: són fitxes de projectes, però es poden utilitzar per a diferents finalitats.
 
-<div class="hint info">
-
-[Més informació sobre tipus de contingut](../posttypes/index.md)
-
-</div>
+<div class="hint info"><a href="../posttypes/index.md">Més informació sobre tipus de contingut</a></div>
 
 <!--
 ## Menu
@@ -44,11 +40,7 @@ Les **extensions o plugins** són scripts que entenen les funcionalitats del blo
 
 Els plugins els solen crear voluntaris i són lliures pel públic.
 
-<div class="hint info">
-
-[Més informació sobre les extensions](../plugins/index.md)
-
-</div>
+<div class="hint info"><a href="../plugins/index.md">Més informació sobre les extensions</a></div>
 
 ## Els ginys
 

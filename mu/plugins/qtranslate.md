@@ -6,11 +6,7 @@ L'extensió [qTranslate X](https://qtranslatexteam.wordpress.com/) ens permet te
 
 [Aprèn més sobre les extensions](./index.md).
 
-<div class="hint warning">
-
-Aquesta extensió té implicacions directes al contingut del blog i algunes funcionalitats no s'integren bé. Si no és indispensable tenir el blog en múltiples llengües és millor prescindir d'aquesta extensió.
-
-</div>
+<div class="hint warning">Aquesta extensió té implicacions directes al contingut del blog i algunes funcionalitats no s'integren bé. Si no és indispensable tenir el blog en múltiples llengües és millor prescindir d'aquesta extensió.</div>
 
 ## Com funciona
 

@@ -7,11 +7,8 @@ El [Yoast SEO](https://ca.wordpress.org/plugins/WordPress-seo/) és una extensi�
 [Aprèn més sobre les extensions](./index.md).
 
 <div class="hint info">
-
-El <strong>SEO</strong> (Search Engine Optimization) són les accions que ajudaran al fet que el web aparegui als primers resultats de Google (o altres cercadors) quan algú faci una determinada cerca.
-
-Si no domines el tema SEO, et recomanem llegir [la guia de SEO](https://www.uvic.cat/sites/default/files/manual_seo_-_marqueting.pdf) abans d'utilitzar aquesta extensió.
-
+    <p>El <strong>SEO</strong> (Search Engine Optimization) són les accions que ajudaran al fet que el web aparegui als primers resultats de Google (o altres cercadors) quan algú faci una determinada cerca.</p>
+    <p>Si no domines el tema SEO, et recomanem llegir <a href="https://www.uvic.cat/sites/default/files/manual_seo_-_marqueting.pdf">la guia de SEO</a> abans d'utilitzar aquesta extensió.</p>
 </div>
 
 ## Com funciona el Yoast SEO?

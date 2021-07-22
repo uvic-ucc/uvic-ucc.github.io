@@ -35,11 +35,7 @@ Per afegir un element de la mediateca a una pàgina, cal:
 		5. Busca al fitxer al teu explorador
 		6. Finalment clica a "Afegir a l'entrada"
 
-<div class="hint warning">
-
-Per afegir una imatge a una pàgina, primer cal penjar-la al servidor i després el WordPress l'enllaça a la pàgina. Si una imatge ja es va penjar al blog en una altra pàgina o notícia, no cal tornar a penjar la imatge al servidor. Així estalviem memòria.
-
-</div>
+<div class="hint warning">Per afegir una imatge a una pàgina, primer cal penjar-la al servidor i després el WordPress l'enllaça a la pàgina. Si una imatge ja es va penjar al blog en una altra pàgina o notícia, no cal tornar a penjar la imatge al servidor. Així estalviem memòria.</div>
 
 ## Bones pràctiques amb les imatges
 

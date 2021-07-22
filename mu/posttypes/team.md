@@ -5,15 +5,13 @@
 De manera similar a les fitxes de [portfolio](./portfolio.md), podem crear fitxes d'equip i cada fitxa representarà un membre de l'equip. D'aquesta manera podrem mostrar automàticament una graella amb els membres de l'equip.
 
 <div class="hint info">
-
-Igual que ens passava amb el portfolio, aquesta funcionalitat no és nativa de WordPress sinó que depèn del tema que ho hagi instal·lat al teu blog. [Descobreix quin tema tens](../introduccio/plantilles.md#com-saber-quin-tema-utilitza-el-teu-blog).
-
-Funció Teams per temes:
-
-* **Pinnacle**: amb la plantilla Pinnacle, les fitxes d'equip s'anomenen "Staff".
-* **Albertino**: amb la plantilla Albertino, les fitxes d'equip s'anomenen "Team".
-* **Avada**: la plantilla Avada no inclou aquesta funcionalitat. Pots crear les fitxes d'equip amb les fitxes de [portfolio](./portfolio.md).
-
+    <p>Igual que ens passava amb el portfolio, aquesta funcionalitat no és nativa de WordPress sinó que depèn del tema que ho hagi instal·lat al teu blog. <a href="../introduccio/plantilles.md#com-saber-quin-tema-utilitza-el-teu-blog">Descobreix quin tema tens.</p>
+    <p>Funció Teams per temes:</p>
+    <ul>
+        <li><strong>Pinnacle</strong> amb la plantilla Pinnacle, les fitxes d'equip s'anomenen "Staff".</li>
+        <li><strong>Albertino</strong>: amb la plantilla Albertino, les fitxes d'equip s'anomenen "Team".</li>
+        <li><strong>Avada</strong>: la plantilla Avada no inclou aquesta funcionalitat. Pots crear les fitxes d'equip amb les fitxes de [portfolio](./portfolio.md).</li>
+    </ul>
 </div>
 
 ### Gestionar les fitxes d'equip

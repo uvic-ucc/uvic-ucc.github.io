@@ -19,6 +19,6 @@ Per altra banda, les [plantilles](../introduccio/plantilles.md), poden incorpora
 
 <div class="hint info">
 
-Tens algun necessitat que no està contemplada? Des de l'Àrea de Màrqueting podem crear nous tipus de contingut. [Demana'ns-ho](contacte.md) i ho valorarem.
+Tens algun necessitat que no està contemplada? Des de l'Àrea de Màrqueting podem crear nous tipus de contingut. <a href="contacte.md">Demana'ns-ho</a> i ho valorarem.
 
 </div>

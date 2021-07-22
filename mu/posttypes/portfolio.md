@@ -10,7 +10,7 @@ Les entrades funcionen de manera molt similar a les [pàgines](pagines.md#gestio
 
 <div class="hint info">
 
-Les característiques del portfolio depenen de la plantilla que utilitzi el teu blog. [Descobreix quina plantilla tens](../introduccio/plantilles.md#com-saber-quin-tema-utilitza-el-teu-blog).
+Les característiques del portfolio depenen de la plantilla que utilitzi el teu blog. <a href="../introduccio/plantilles.md#com-saber-quin-tema-utilitza-el-teu-blog">Descobreix quina plantilla tens</a>.
 
 </div>
 
