@@ -1,8 +1,5 @@
 # Table of contents
 
-* [Portada](#)
-* [Contacte](contacte.md)
-
 ## Introducció
 
 * [Què és WordPress?](introduccio/index.md)

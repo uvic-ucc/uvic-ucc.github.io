@@ -27,4 +27,8 @@ Els atributs principals de les pàgines són:
 	* El fil d'ariadna o breadcamps
 	* L'estructura dels menús
 
-<div class="hint danger">Que una pàgina tingui diverses subpàgines ("filles") no comportarà canvis al menú. Si cal fer modificacions al menú superior, cal contactar amb l'[Àrea de Màrqueting](contacte.md)</div>
+<div class="hint danger">
+
+Que una pàgina tingui diverses subpàgines ("filles") no comportarà canvis al menú. Si cal fer modificacions al menú superior, cal contactar amb l'[Àrea de Màrqueting](contacte.md)
+
+</div>

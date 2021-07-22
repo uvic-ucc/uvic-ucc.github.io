@@ -8,9 +8,17 @@ L'editor de text de WordPress és similar als editors de text normals.
 
 ![Esquema de l'editor de text de WordPress](assets/text/editor_html-esquema.png)
 
-<div class="hint danger">Podem alinear el text a l'esquerra, al centre i a la dreta (eines 6, 7 i 8 respectivament). Mai es justifica el text pels dos costats.</div>
+<div class="hint danger">
 
-<div class="hint warning">L'editor de text no permet canviar la mida de la lletra ni el color. Aquestes opcions no són necessaries per l'edició de textos. Si cal destacar un text a mode de títol, utilitzeu la [opció de encapçalaments](#encapçalaments).</div>
+Podem alinear el text a l'esquerra, al centre i a la dreta (eines 6, 7 i 8 respectivament). Mai es justifica el text pels dos costats.
+
+</div>
+
+<div class="hint warning">
+
+L'editor de text no permet canviar la mida de la lletra ni el color. Aquestes opcions no són necessaries per l'edició de textos. Si cal destacar un text a mode de títol, utilitzeu la [opció de encapçalaments](#encapçalaments).
+
+</div>
 
 ## Encapçalaments
 

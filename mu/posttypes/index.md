@@ -17,4 +17,8 @@ Per altra banda, les [plantilles](../introduccio/plantilles.md), poden incorpora
 * [Staff/Team](team.md)
 * [Portfolio](portfolio.md)
 
-<div class="hint info">Tens algun necessitat que no està contemplada? Des de l'Àrea de Màrqueting podem crear nous tipus de contingut. [Demana'ns-ho](contacte.md) i ho valorarem.</div>
+<div class="hint info">
+
+Tens algun necessitat que no està contemplada? Des de l'Àrea de Màrqueting podem crear nous tipus de contingut. [Demana'ns-ho](contacte.md) i ho valorarem.
+
+</div>

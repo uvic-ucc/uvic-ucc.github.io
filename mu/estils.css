@@ -12,15 +12,14 @@ L'objectiu és poder afegir alguna funcionalitat
 	--danger  : #DC3545;
 }
 
+h1:first-child {
+	display: none;
+}
+
 img {
 	display: block;
 	margin: 0 auto;
 	max-width: 750px;
-}
-
-.pendent {
-	color: #0080ff;
-	font-family: "Segoe Print";
 }
 
 span.material-icons {
