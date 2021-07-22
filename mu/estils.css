@@ -1,0 +1,87 @@
+/*
+Proposta d'estils per refinar la maquetació de les pàgines.
+L'objectiu és poder afegir alguna funcionalitat
+*/
+
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+:root {
+	--success : #28A745;
+	--info    : #17A2B8;
+	--wrning  : #FFC107;
+	--danger  : #DC3545;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 750px;
+}
+
+.pendent {
+	color: #0080ff;
+	font-family: "Segoe Print";
+}
+
+span.material-icons {
+	color: #444;
+	font-size: 14pt;
+	vertical-align: middle;
+}
+
+table.puzzle tr {
+	background-color: transparent !important;
+	border: none;
+}
+table.puzzle td {
+	border: none;
+	text-align: center;
+	padding: 5px 10px;
+	border-right: 1px solid #7F7F7F7F;
+}
+table.puzzle td:last-child {
+	border-right: none;
+}
+table.puzzle tr:nth-child(2) {
+	font-size: 9pt;
+	border-top: 1px solid #7F7F7F7F;
+}
+
+/*img:before {
+	content: 'mmm';
+}*/
+
+div.hint {
+	margin: 30px 20px;
+	padding: 5px;
+	padding-left: 10px;
+	border-left: 5px solid #CCC;
+	background-color: #F8F8F8;
+	border-radius: 5px;
+}
+div.hint:before {
+	content: ' '; /*https://fonts.google.com/icons*/
+	margin-right: 5px;
+	font-size: 1.25em;
+	font-family: 'Material Icons';
+	vertical-align: sub;
+}
+div.hint > p {
+	margin-top: 10px;
+}
+div.hint > p:first-child {
+	display: contents;
+}
+
+div.hint > p:first-child {
+	display: contents;
+	margin-bottom: 16px;
+}
+div.hint > p:nth-child(2) {
+	margin-top: 16px;
+}
+
+div.hint.success { border-color: var(--success) } div.hint.success:before { content: '\e86c'; color: var(--success); } div.hint.success strong { color: var(--success); }
+div.hint.info    { border-color: var(--info)    } div.hint.info:before    { content: '\e88e'; color: var(--info)   ; } div.hint.info    strong { color: var(--info)   ; }
+div.hint.warning { border-color: var(--wrning)  } div.hint.warning:before { content: '\e001'; color: var(--wrning) ; } div.hint.warning strong { color: var(--wrning) ; }
+div.hint.danger  { border-color: var(--danger)  } div.hint.danger:before  { content: '\e99a'; color: var(--danger) ; } div.hint.danger  strong { color: var(--danger) ; }

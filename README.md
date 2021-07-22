@@ -1,2 +1,5 @@
-# uvic-ucc.github.io
-Espai per a documentacions i guies UVic
+# Docs UVic-UCC
+
+* [Documentació xarxa MónUVic](./mu/)
+* [Documentació web UVic](https://uvic.gitbook.io/)
+* [Guia d'ús de XS](uvic.cat/guia-xs)
